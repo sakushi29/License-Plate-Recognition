@@ -9,7 +9,7 @@ Download the weights for Yolov5 and Low-Light Image Enhancement model from [here
 and create a folder “weights” and put them inside.
 
 ```python
-git clone https://github.com/amish1706/license_plate_recognition
+git clone https://github.com/sakushi29/license_plate_recognition
 ```
 
 # Inference Script
